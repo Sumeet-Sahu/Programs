@@ -1,1 +1,1 @@
-Have Sample Java Programs for Experimental Purpose
+Contains sample Java Programs for Experimental Purpose
