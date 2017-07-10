@@ -11,5 +11,6 @@ public class AsciiValue {
 		Character character = s.next().charAt(0);
 
 		System.out.println((int) character);
+		s.close();
 	}
 }
